@@ -1,11 +1,11 @@
-<h1>Diego David (Dave) | Senior Flutter Developer</h1>
-<p>Professional Engineer and AI-first problem solver</p>
+<h1>Diego David (Dave) |  Flutter Developer</h1>
+<p>Professional Engineer, Traveler Expert, Explorer New Techs, AI-lover</p>
 
 - 📱 <b>Mobile Developer</b> with a focus on <b>Flutter & Dart</b>.
 - 🛠️ Strong in <b>state management</b> (Provider, Riverpod, Bloc), <b>custom UI</b>, and <b>architecture patterns</b>.
 - 🔄 <b>CI/CD enthusiast</b>: automating builds, tests, and deployments with <b>CodeMagic</b> and <b>GitHub Actions</b>.
 - 📈 Passionate about writing <b>maintainable</b>, <b>testable</b>, and <b>scalable codebases</b>.
-- 📚 <b>Lifelong learner</b> — recently diving into <b>AI integrating workflows</b>.
+- 📚 <b>Lifelong learner</b>.
 
 
 <h2>Languages and Tools I Use</h2>
