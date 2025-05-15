@@ -21,5 +21,5 @@
 </p>
 
 
-> I love how technologies are used to create a different solutions for the world. That makes me a happier developer.
+> I love to convert the complex things in piece of cake with Technology tools for everyone.
 
