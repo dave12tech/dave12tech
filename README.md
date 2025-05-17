@@ -2,7 +2,7 @@
 <p>Professional Engineer, Traveler Expert, Explorer New Techs, AI-lover</p>
 
 - 📱 <b>Mobile Developer</b> with a focus on <b>Flutter & Dart</b>.
-- 🛠️ Strong in <b>state management</b> (Provider, Riverpod, Bloc), <b>custom UI</b>, and <b>architecture patterns</b>.
+- ✈️ <b>Traveler and Explorer 33 Countries and counting</b> 
 - 🔄 <b>CI/CD enthusiast</b>: automating builds, tests, and deployments with <b>CodeMagic</b> and <b>GitHub Actions</b>.
 - 📈 Passionate about writing <b>maintainable</b>, <b>testable</b>, and <b>scalable codebases</b>.
 - 📚 <b>Lifelong learner</b>.
@@ -11,7 +11,6 @@
 <h2>Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a></p>
