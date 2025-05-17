@@ -2,7 +2,7 @@
 <p>Professional Engineer, Traveler Expert, Explorer New Techs, AI-lover</p>
 
 - 📱 <b>Mobile Developer</b> with a focus on <b>Flutter & Dart</b>.
-- ✈️ <b>Traveler and Explorer 33 Countries and counting</b> 
+- ✈️ <b>Traveler and Explorer</b> 33 Countries and counting.
 - 🔄 <b>CI/CD enthusiast</b>: automating builds, tests, and deployments with <b>CodeMagic</b> and <b>GitHub Actions</b>.
 - 📈 Passionate about writing <b>maintainable</b>, <b>testable</b>, and <b>scalable codebases</b>.
 - 📚 <b>Lifelong learner</b>.
