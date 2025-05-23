@@ -1,4 +1,4 @@
-<h1>Diego David (Dave) |  Flutter Developer</h1>
+<h1>(Dave) |  Flutter Developer</h1>
 <p>Professional Engineer, Traveler Expert, Explorer New Techs, AI-lover</p>
 
 - 📱 <b>Mobile Developer</b> with a focus on <b>Flutter & Dart</b>.
